@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+    int a = 2;
+    int b = 7   // error due to no semicolon
+    int c = 10;
+    printf("value of a is ",a);
+
+    return 0;
+}

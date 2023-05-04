@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int sum(int a,int b)
+{
+	return a+b;
+}
+void main()
+{
+	int i,n;
+	i = 5;
+	float a = 2.0;
+
+	printf("heyyy we are calculating the sum :)");
+	n = sum(2,3);
+
+	return;
+}

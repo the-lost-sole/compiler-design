@@ -1,0 +1,17 @@
+#include<stdio.h>
+
+int main()
+{
+    int a=0;
+    int count = 0;
+    for(a = 0; a < 10; a = a+1){
+        printf("yeeeeeeeeeee");
+        count = count + a;
+    }
+
+    return 0;
+}
+
+
+
+
